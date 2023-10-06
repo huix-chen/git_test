@@ -1,4 +1,3 @@
 # git_test
 
-Hello Odin!
-Hello Huixin!
+My first GitHub repo!
