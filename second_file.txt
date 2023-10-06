@@ -1,1 +1,2 @@
-This is the second file created by Huixin on Friday 11:00!
+This is the second file created by Huixin on Friday 11:00! 
+Now i added this second line.
